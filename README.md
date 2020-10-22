@@ -6,7 +6,7 @@ MS students interested in optimization system for deep learning
 
 Skills: python/c++/Pytorch/ LLVM
 
-- 🔭 I’m currently working on parcolab(POSTECH) 
+- 🔭 I’m currently working on Accelerated Computing Platform Lab(POSTECH) 
 - 🌱 I’m currently learning tvm 
 - 📫 How to reach me: jaehunryu@postech.ac.kr 
 
