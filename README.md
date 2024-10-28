@@ -1,14 +1,14 @@
 ### Hi there 👋, Jaehun 's github
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-MS students interested in optimization system for deep learning 
+
+At Rebellions Inc, I develop compilers for Neural Processing Units (NPU), focusing on performance optimization and hardware efficiency. Currently exploring efficient methods to deploy Large Language Models on NPUs, while developing generalizable optimization techniques. My work combines deep learning optimization expertise with compiler development to maximize AI acceleration capabilities.
 
 
-Skills: python/c++/Pytorch/ LLVM
+Skills: MLIR/c++/Pytorch
 
-- 🔭 I’m currently working on Accelerated Computing Platform Lab(POSTECH) 
-- 🌱 I’m currently learning tvm 
-- 📫 How to reach me: jaehunryu@postech.ac.kr 
+- 🔭 Working as a Compiler Engineer at Rebellions Inc
+- 📫 How to reach me: jaehunryu@icloud.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jaehunryu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jaehunryu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://deepmi.me)  
